@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Screen
-https://user-images.githubusercontent.com/65519308/114028750-7d943480-9881-11eb-967b-1bbf19088d18.mov
+![1](https://user-images.githubusercontent.com/65519308/114029087-d8c62700-9881-11eb-824f-4a23061b817a.gif)
 
 
 ### Getting Started
